@@ -1,0 +1,12 @@
+Analisis kebutuhan perangkat lunak bertujuan untuk memahami dan mengidentifikasi kebutuhan client agar sistem yang dibuat sesuai dengan 
+harapan pengguna. Dalam proses ini, terdapat tiga hal utama yang dianalisis, yaitu kebutuhan fungsional (fitur yang harus dimiliki sistem), 
+kebutuhan non-fungsional (kualitas sistem seperti keamanan dan performa), serta batasan sistem.
+
+Kegiatan ini didukung oleh alat seperti dokumen teks dan template Software Requirement Specification (SRS). Permasalahan yang sering 
+terjadi adalah sistem tidak dapat digunakan dengan baik karena kebutuhan pengguna tidak diidentifikasi secara jelas sejak awal.
+
+Dalam studi kasus, mahasiswa diminta untuk mengidentifikasi stakeholder, menyusun daftar kebutuhan 
+fungsional dan non-fungsional, serta membuat dokumen SRS sebagai acuan pengembangan sistem.
+
+Penilaian didasarkan pada kelengkapan dan detail kebutuhan fungsional, kejelasan dan relevansi 
+kebutuhan non-fungsional, serta kerapihan dan struktur dokumen SRS yang dibuat.
