@@ -1,0 +1,32 @@
+1. Esensi Analisis Kebutuhan
+Tahap ini adalah fondasi paling krusial dalam RPL. Tujuannya adalah menjembatani keinginan klien dengan pemahaman teknis pengembang agar tidak terjadi salah paham yang menyebabkan sistem gagal digunakan.
+
+---
+
+2. Kategorisasi Kebutuhan
+Dalam analisis ini, kebutuhan dibagi menjadi tiga aspek utama:
+
+* **Kebutuhan Fungsional:** Menjelaskan **apa** yang dilakukan sistem (fitur-fitur spesifik).
+    * *Contoh:* "Sistem harus dapat melakukan validasi login" atau "Sistem dapat mencetak laporan bulanan."
+* **Kebutuhan Non-Fungsional:** Menjelaskan **bagaimana** sistem bekerja (kualitas dan batasan).
+    * *Contoh:* Keamanan data (enkripsi), kecepatan akses (halaman terbuka dalam < 2 detik), atau tampilan yang responsif di HP.
+* **Batasan Sistem (*Constraints*):** Faktor yang membatasi pengembangan.
+    * *Contoh:* Harus menggunakan database MySQL atau harus selesai dalam waktu 3 bulan.
+
+---
+
+3. Dokumentasi SRS (*Software Requirement Specification*)
+Semua hasil analisis dituangkan ke dalam dokumen **SRS**. Dokumen ini berfungsi sebagai "kontrak kerja" teknis antara pengembang dan klien agar kedua pihak memiliki ekspektasi yang sama.
+
+---
+
+4. Tugas Praktik (Studi Kasus)
+Untuk proyek kelompokmu, kamu perlu melakukan langkah-langkah berikut:
+
+1.  **Identifikasi Stakeholder:** Siapa saja yang terlibat? (Misal: Admin, Pengguna Umum, atau Pemilik Bisnis).
+2.  **Daftar Kebutuhan:**
+    * Susun apa saja fitur yang harus ada (**Fungsional**).
+    * Susun standar performa dan keamanan yang diinginkan (**Non-Fungsional**).
+3.  **Penyusunan SRS:** Masukkan poin-poin tersebut ke dalam *template* dokumen SRS yang sudah disediakan sebagai panduan utama pembangunan perangkat lunak.
+
+ > **Tips:** Analisis yang buruk adalah penyebab utama proyek IT mangkrak. Pastikan setiap poin kebutuhan bisa diuji dan jelas maknanya!
