@@ -1,0 +1,29 @@
+
+1. Apa itu Elicitation?
+*Elicitation* adalah proses mengumpulkan atau "memancing" informasi kebutuhan dari *stakeholder* (pemilik proyek atau pengguna).
+Intinya, tahap ini adalah komunikasi aktif untuk memastikan pengembang tidak hanya menebak-nebak fitur yang diinginkan pengguna.
+
+2. Teknik-Teknik Elicitation
+Terdapat beberapa metode yang bisa digunakan tergantung situasi dan kondisi *stakeholder*:
+
+  * Wawancara (*Interview*):** Tanya jawab langsung dengan pengguna untuk menggali informasi mendalam.
+  * Observasi:** Mengamati secara langsung bagaimana pengguna bekerja saat ini untuk menemukan kendala yang mereka hadapi.
+  * Kuesioner:** Mengumpulkan data dari banyak pengguna sekaligus menggunakan daftar pertanyaan tertulis (seperti Google Form).
+  * Studi Dokumen:** Mempelajari manual, SOP, atau dokumen sistem lama yang sudah ada sebagai referensi.
+
+---
+
+3. Alat yang Dibutuhkan
+  * Template Wawancara:** Daftar pertanyaan terstruktur agar sesi diskusi tetap fokus.
+  * Platform Survei:** Seperti Google Form atau dokumen teks untuk mencatat hasil pengamatan.
+
+---
+
+4. Tugas Praktik (Studi Kasus)
+Dalam proyek kelompok, kamu akan belajar cara berkomunikasi secara profesional melalui tahapan:
+
+    1.  **Menyusun Daftar Pertanyaan:** Menyiapkan pertanyaan yang relevan (terbuka/tertutup) untuk menggali kebutuhan fungsional dan non-fungsional.
+    2.  **Simulasi Wawancara:** Melakukan praktek tanya jawab dengan pihak yang berperan sebagai pengguna.
+    3.  **Ringkasan Hasil:** Mengolah hasil komunikasi mentah menjadi poin-poin kebutuhan yang jelas dan siap didokumentasikan dalam SRS.
+
+> **Pesan Utama:** Jangan pernah membangun sistem berdasarkan asumsi. Satu jam sesi *elicitation* yang baik bisa menyelamatkan kamu dari berminggu-minggu revisi kode di kemudian hari.
