@@ -1,0 +1,30 @@
+
+1. Pengertian SDLC
+*Software Development Life Cycle* (SDLC) adalah kerangka kerja atau tahapan sistematis yang digunakan untuk membangun perangkat lunak, mulai dari perencanaan awal, analisis kebutuhan, desain, pengodean, pengujian, hingga pemeliharaan.
+
+2. Model-Model SDLC yang Umum
+Setiap model memiliki karakteristik yang berbeda tergantung pada kompleksitas proyek dan stabilitas kebutuhan pengguna:
+
+| Model | Karakteristik Utama | Cocok Untuk... |
+| :--- | :--- | :--- |
+| **Waterfall** | Linear dan berurutan. Satu tahap harus selesai sebelum lanjut ke tahap berikutnya. | Proyek dengan kebutuhan yang sudah sangat jelas dan statis. |
+| **Prototype** | Membuat versi "cepat" (prototipe) untuk mendapatkan *feedback* pengguna di awal. | Proyek di mana pengguna belum yakin dengan kebutuhan detailnya. |
+| **Spiral** | Menggabungkan elemen iteratif dengan fokus besar pada analisis risiko. | Proyek besar, kompleks, dan memiliki risiko tinggi. |
+| **Incremental** | Perangkat lunak dipecah menjadi bagian-bagian kecil yang dikembangkan dan dikirim secara bertahap. | Proyek yang ingin segera merilis fungsi dasar ke pasar. |
+| **RAD (Rapid App Dev)** | Menekankan pada siklus pengembangan yang sangat pendek dan penggunaan komponen *reusable*. | Proyek yang butuh waktu pengerjaan sangat cepat (60-90 hari). |
+| **Agile** | Fokus pada iterasi cepat, kolaborasi tim, dan fleksibilitas terhadap perubahan kebutuhan. | Proyek modern yang lingkungannya dinamis dan sering berubah. |
+
+
+
+---
+
+3. Persiapan & Alat bantu
+Untuk memodelkan tahapan pengembangan ini, alat yang digunakan biasanya meliputi:
+* **Diagram Tool:** Digunakan untuk memvisualisasikan alur SDLC (contoh: Draw.io, Lucidchart, atau Astah).
+* **Platform Kolaborasi:** GitHub digunakan untuk manajemen kode dan pelacakan progres pengembangan.
+
+4. Tugas Praktik (Studi Kasus)
+Kamu diminta untuk menentukan strategi pengembangan yang tepat untuk proyek kelompokmu dengan langkah berikut:
+1.  **Pemilihan Model:** Tentukan satu model SDLC yang paling relevan dengan kondisi proyekmu.
+2.  **Justifikasi:** Berikan alasan kuat mengapa model tersebut dipilih (misalnya: "Kami memilih Agile karena fitur website mungkin bertambah seiring diskusi kelompok").
+3.  **Visualisasi:** Buatlah diagram alir yang menggambarkan tahapan-tahapan pengembangan sesuai dengan model yang dipilih tersebut.
